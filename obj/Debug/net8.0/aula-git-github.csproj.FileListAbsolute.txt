@@ -1,0 +1,15 @@
+C:\Users\1529444\Documents\aula-git-github\bin\Debug\net8.0\aula-git-github.exe
+C:\Users\1529444\Documents\aula-git-github\bin\Debug\net8.0\aula-git-github.deps.json
+C:\Users\1529444\Documents\aula-git-github\bin\Debug\net8.0\aula-git-github.runtimeconfig.json
+C:\Users\1529444\Documents\aula-git-github\bin\Debug\net8.0\aula-git-github.dll
+C:\Users\1529444\Documents\aula-git-github\bin\Debug\net8.0\aula-git-github.pdb
+C:\Users\1529444\Documents\aula-git-github\obj\Debug\net8.0\aula-git-github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1529444\Documents\aula-git-github\obj\Debug\net8.0\aula-git-github.AssemblyInfoInputs.cache
+C:\Users\1529444\Documents\aula-git-github\obj\Debug\net8.0\aula-git-github.AssemblyInfo.cs
+C:\Users\1529444\Documents\aula-git-github\obj\Debug\net8.0\aula-git-github.csproj.CoreCompileInputs.cache
+C:\Users\1529444\Documents\aula-git-github\obj\Debug\net8.0\aula-git-github.sourcelink.json
+C:\Users\1529444\Documents\aula-git-github\obj\Debug\net8.0\aula-git-github.dll
+C:\Users\1529444\Documents\aula-git-github\obj\Debug\net8.0\refint\aula-git-github.dll
+C:\Users\1529444\Documents\aula-git-github\obj\Debug\net8.0\aula-git-github.pdb
+C:\Users\1529444\Documents\aula-git-github\obj\Debug\net8.0\aula-git-github.genruntimeconfig.cache
+C:\Users\1529444\Documents\aula-git-github\obj\Debug\net8.0\ref\aula-git-github.dll
